@@ -8,8 +8,9 @@ Hello my name is MD. Shehabuddin Tushar. I am a web and app developer. its my pa
 Skills: REACTJS / EXPRESSJS / MONGODB /  JS / HTML / CSS / PHP / MYSQL / LARAVEL
 
 
-- 👯 I’m looking to collaborate on GITHUB 
-- 💬 Ask me about web development 
+- 🔭 I’m currently working on Web & App development
+- 👯 I’m looking to collaborate on Laravel, React & React Native
+- 💬 Ask me about web and app development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shehabuddin-Tushar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shehabuddintushar-9b07ba171/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.shehabuddintushar)  
